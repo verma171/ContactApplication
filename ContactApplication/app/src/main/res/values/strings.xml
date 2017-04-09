@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ContactApplication</string>
+    <string name="networkerror">No Internet Connection! Check your connection and try again!!</string>
+    <string name="dataerror">Error while loading data,Please pull down to refresh list.</string>
+</resources>
