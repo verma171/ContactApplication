@@ -8,9 +8,6 @@ import com.android.volley.Response.ErrorListener;
 import com.android.volley.Response.Listener;
 import com.android.volley.toolbox.Volley;
 
-/**
- * Created by aniruddh.rathore on 4/9/17.
- */
 
 public final class NetworkManager {
 
